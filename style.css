@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+.top-bar 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #C9EEFF;
+}
+
+.Logo{
+    width: 80px;
+    height: 10 px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: #62CDFF;
+    border-radius: 5px;
+}
+li{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
