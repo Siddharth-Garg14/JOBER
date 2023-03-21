@@ -8,7 +8,7 @@
     justify-content: space-between;
     padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #C9EEFF;
+    background-color: #19A7CE;
 }
 
 .Logo{
@@ -20,7 +20,7 @@ a{
     color: white;
 }
 a:hover{
-    color: #62CDFF;
+    color: black;
     border-radius: 5px;
 }
 li{
